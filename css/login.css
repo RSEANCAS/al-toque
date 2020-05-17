@@ -537,6 +537,12 @@ body {
     width: 30%;
   }
 }
+.login .title h1 {
+  color: white;
+}
+.login .title p {
+  color: whitesmoke;
+}
 .login form {
   display: grid;
   grid-row-gap: 10px;
